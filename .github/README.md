@@ -51,7 +51,7 @@ class Anonymous():
 
 <h1> <img src="https://te.legra.ph/file/274cef853f5f608a83a16.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
-[<img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/telegram_icon.png" width="60px">](https://t.me/MR_CUTE_X) [<img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/github_icon.png" width="60px">](https://github.com/Anurag8953) [<img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/kaalcoders) [<img src="https://github.com/Anurag8953/Anurag8953/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/ay9810230)
+[<img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/telegram_icon.png" width="60px">](https://t.me/MR_CUTE_X) [<img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/github_icon.png" width="60px">](https://github.com/Anurag8953) [<img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/youtube_icon.png" width="60px">](https://youtube.com/@kaalcoders?si=dKi_eQK7UI-fsKi9) [<img src="https://github.com/Anurag8953/Anurag8953/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/ay9810230)
 
 [<img src="https://github.com/Anurag8953/Anurag8953/blob/master/resources/hr.gif"/>](https://github.com/Anurag8953)
 
