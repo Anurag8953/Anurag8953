@@ -55,9 +55,9 @@ class Anonymous():
 
 [<img src="https://github.com/Anurag8953/Anurag8953/blob/master/resources/hr.gif"/>](https://github.com/Anurag8953)
 
-<h1> <img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+<h1> <img src="https://raw.githubusercontent.com/Anurag8953/Anurag8953/master/resources/songs.gif" width="57px"> 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐨𝐧 𝐦𝐢𝐧𝐞 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 </h1>
 
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
-[<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousX1025)
+[<img src="https://github.com/Anurag8953/Anurag8953/blob/master/resources/hr.gif"/>](https://github.com/Anurag8953)
 
