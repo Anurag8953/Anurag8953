@@ -17,7 +17,7 @@
 <h1> <img src="https://te.legra.ph/file/21e7bb7f0b7b27333a806.jpg" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
 
 ```python3
-class Anonymous():
+class Anurag():
     def __init__(self):
         self.name = ['Anurag']
         self.country = ['India']
